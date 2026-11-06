@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Youssef Jeddi
 
-Cybersecurity Master's student @ EPFL  
+Cybersecurity Master's student @ EPFL/ETHZ
 Interested in blockchain and cybersecurity  
 
 ### Technologies
